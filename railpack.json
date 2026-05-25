@@ -15,6 +15,9 @@
     "libjpeg-dev",
     "libfreetype6-dev",
     "zlib1g-dev",
-    "libicu-dev"
+    "libicu-dev",
+    "libgd-dev",
+    "libreadline-dev",
+    "libpq-dev"
   ]
 }
